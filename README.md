@@ -1,124 +1,103 @@
-<h1 align="center">Hi 👋, I'm Devendra Mali</h1>
-<h3 align="center">Java Full Stack Developer · MCA Student · Mumbai University</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devendra-mali-851538228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://devendra-12.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:devendraa.mali12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+# Devendra Mali
 
----
+**Java Full Stack Developer**
 
-### 👨‍💻 About Me
+MCA · L.B.H.S.S.T's Institute of Computer Application, Mumbai University
 
-- 🎓 Pursuing **MCA** at L.B.H.S.S.T's Institute of Computer Application, Mumbai University
-- 💼 Java Full Stack Developer with hands-on experience in **Spring Boot**, **Hibernate**, **React.js**, and **PostgreSQL**
-- 🔭 Currently building and refining full-stack projects for my portfolio
-- 🌱 Learning **Spring Boot**, **REST APIs**, and **React** deeper every day
-- 📍 Based in **Ulhasnagar, Maharashtra**
-- 📫 Reach me at **devendraa.mali12@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-mali-851538228/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://devendra-12.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devendraa.mali12@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=devendramali12&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/devendramali12)
+
+</div>
 
 ---
 
-### 🛠 Tech Stack
+## About
 
-**Backend**
+Java Full Stack Developer with hands-on experience designing and building production-ready web applications. Proficient in backend development with **Java**, **Spring Boot**, and **Hibernate**, and frontend development with **React.js**. Experienced in relational database design with **PostgreSQL** and **MySQL**, RESTful API development, and MVC architecture patterns.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet%2FJSP-007396?style=flat-square&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+Currently pursuing an **MCA at Mumbai University** (CGPA: 7.51), with a prior **B.Sc. in Computer Science** (CGPA: 8.38) from V.P.M's Bandodkar College of Science, Thane.
 
 ---
 
-### 🚀 Featured Projects
+## Technical Skills
 
-#### 🛒 [ShopEase — Full Stack E-Commerce Platform](https://github.com/devendramali12/Java-Eclipse/tree/master/ShoppingCart)
-> Java Servlets · JSP · PostgreSQL · MVC · BCrypt · Chart.js
-
-- Role-based authentication for **Admin** and **Customer**
-- Features: shopping cart, coupon/discount system, order invoice generation, low-stock alerts
-- Admin dashboard with **Chart.js revenue graphs** and complete product/order management
-- Secured with **BCrypt password hashing**, session management, and protected admin routes
-- Designed using **MVC architecture** with DAO pattern
-
----
-
-#### ✈️ [Travel & Tourism Management System](https://github.com/devendramali12/Java-Eclipse/tree/master/TravelTourismSystem)
-> Java 17 · Jakarta Servlets 6.0 · JSP · PostgreSQL · HikariCP · BCrypt
-
-- Full **MVC architecture** with Controller → DAO → Model layer separation
-- Role-based auth for **User and Admin** with session management and server-side validation
-- **SQL injection prevention** via parameterized JDBC queries
-- Admin dashboard with full CRUD on travel packages and booking records
-- Production-hardened with **BCrypt**, **HikariCP** connection pooling, **SLF4J/Logback** logging, and **JavaMail**
+| Layer | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript |
+| **Backend** | Spring Boot, Spring MVC, Spring JPA, Hibernate, Servlets, JSP, JDBC |
+| **Frontend** | React.js, HTML5, CSS3 |
+| **Databases** | PostgreSQL, MySQL |
+| **Tools & Platforms** | Git, GitHub, Postman, IntelliJ IDEA, VS Code, Eclipse |
 
 ---
 
-#### 🌤 [Weather Forecast Web App](https://github.com/devendramali12)
-> React · Vite · OpenWeatherMap API · Chart.js
+## Projects
 
-- Real-time weather data and **5-day forecasts** via OpenWeatherMap API
-- Interactive charts, **dark mode**, geolocation support
-- LocalStorage-based state management and optimized API calls
+### [ShopEase — Full Stack E-Commerce Platform](https://github.com/devendramali12/Java-Eclipse/tree/master/ShoppingCart)
 
----
+`Java Servlets` `JSP` `PostgreSQL` `MVC` `BCrypt` `Chart.js`
 
-### 📊 GitHub Stats
+A full-stack e-commerce platform built with Java Servlets and JSP, featuring separate Admin and Customer portals with role-based authentication.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devendramali12&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Devendra's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendramali12&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendramali12&theme=default&hide_border=true" alt="GitHub Streak" width="50%"/>
-</p>
+- Implemented core commerce flows: shopping cart, coupon and discount engine, order invoice generation, and automated low-stock alerts
+- Built an Admin dashboard with Chart.js revenue analytics and complete product and order management
+- Secured the application with BCrypt password hashing, session management, and protected admin routes
+- Architected with MVC pattern and DAO layer for clean separation of concerns
 
 ---
 
-### 🎓 Certifications
+### [Travel & Tourism Management System](https://github.com/devendramali12/Java-Eclipse/tree/master/TravelTourismSystem)
 
-- 📜 **Cloud Computing** — NPTEL · IIT Kharagpur *(Jun–Oct 2025, Score: 60%)*
-- 📜 **Java Full Stack Development** — JSpiders Software Training Institute, Thane
+`Java 17` `Jakarta Servlets 6.0` `JSP` `PostgreSQL` `HikariCP` `BCrypt` `SLF4J`
+
+A production-hardened full-stack MVC web application for managing travel packages and bookings, with distinct User and Admin roles.
+
+- Designed a strict Controller → DAO → Model architecture with server-side validation and SQL injection prevention via parameterized JDBC queries
+- Integrated HikariCP connection pooling for efficient database resource management
+- Implemented BCrypt authentication, session-based access guards, and SLF4J/Logback structured logging
+- Admin panel supports full CRUD operations on travel packages and booking records, with pagination and JavaMail notifications
 
 ---
 
-### 🌐 Portfolio
+### [Weather Forecast Web App](https://github.com/devendramali12)
 
-Check out my work at **[devendra-12.netlify.app](https://devendra-12.netlify.app/)**
+`React` `Vite` `OpenWeatherMap API` `Chart.js`
+
+A responsive single-page weather application delivering real-time conditions and 5-day forecasts via the OpenWeatherMap API.
+
+- Integrated Chart.js for interactive forecast visualisations with geolocation-based auto-detection
+- Implemented dark mode, LocalStorage state persistence, and optimised API call handling
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devendramali12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## GitHub Stats
 
-<p align="center">⭐ Feel free to explore my repositories and drop a star if you find something useful!</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=devendramali12&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendramali12&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="40%" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devendramali12&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="50%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Cloud Computing | NPTEL · IIT Kharagpur | 2025 |
+| Java Full Stack Development | JSpiders Software Training Institute, Thane | — |
+
+---
+
+<div align="center">
+
+**[devendra-12.netlify.app](https://devendra-12.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/devendra-mali-851538228/) · devendraa.mali12@gmail.com**
+
+</div>
